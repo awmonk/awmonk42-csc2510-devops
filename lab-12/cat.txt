@@ -1,3 +1,4 @@
 #/!/bin/bash
 
-echo "Alice and Bob like cats."
+echo "Alice likes cats."
+echo "Bob likes cats."
